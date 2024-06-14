@@ -1,4 +1,4 @@
-package com.api.practice.api_practice;
+package com.api.practice.access_service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

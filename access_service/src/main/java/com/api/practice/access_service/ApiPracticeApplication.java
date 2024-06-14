@@ -1,4 +1,4 @@
-package com.api.practice.api_practice;
+package com.api.practice.access_service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
