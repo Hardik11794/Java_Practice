@@ -1,0 +1,15 @@
+server:
+  port: 8080
+  security:
+    user:
+      password: e7643614-c5e2-4aeb-9cda-0d7f0afde999
+  application:
+    name: access_service
+
+management:
+  endpoints:
+    web:
+      exposure:
+         include: "*"
+
+
